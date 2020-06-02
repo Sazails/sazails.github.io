@@ -1,5 +1,3 @@
-## Welcome to Sazails Portfolio
-
 ### Programming 
 * [FirstWebApp](https://github.com/Sazails/FirstWebApp)<br>
 * [MavenWebApp](https://github.com/Sazails/MavenWebApp)<br>
@@ -10,19 +8,20 @@
 * [Unity3D](https://github.com/Sazails/Unity-3D)<br>
 
 ### Art\Graphic design
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/SomeRover.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/Wobble.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/Quack.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/Investigator.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/fuseCity.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/skyLight.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/LemonWork.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/IlluminativeHeart.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/Frog.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/Rain.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/ChiChatLogo.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/PHLogo.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/PHBusinessCard.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/NitroLogo.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/TaradoLogos.png)<br>
-![Image](https://github.com/Sazails/sazails.github.io/blob/master/Images/GlobalWarmingPoster.png)<br>
+
+![SomeRover](Images/SomeRover.png "SomeRover")
+![Wobble](Images/Wobble.png "Wobble")
+![Quack](Images/Quack.png "Quack")
+![Investigator](Images/Investigator.png "Investigator")
+![fuseCity](Images/fuseCity.png "FuseCity")
+![skyLight](Images/skyLight.png "SkyLight")
+![LemonWork](Images/LemonWork.png "LemonWork")
+![IlluminativeHeart](Images/IlluminativeHeart.png "IlluminativeHeart")
+![Frog](Images/Frog.png "Frog")
+![Rain](Images/Rain.png "Rain")
+![ChiChatLogo](Images/ChiChatLogo.png "ChiChatLogo")
+![PHLogo](Images/PHLogo.png "PHLogo")
+![PHBusinessCard](Images/PHBusinessCard.png "PHBusinessCard")
+![NitroLogo](Images/NitroLogo.png "NitroLogo")
+![TaradoLogos](Images/TaradoLogos.png "TaradoLogos")
+![GlobalWarmingPoster](Images/GlobalWarmingPoster.png "GlobalWarmingPoster")
