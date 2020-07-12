@@ -10,6 +10,7 @@
 
 ### Art\Graphic design
 
+![Compute](Images/Compute.png "Compute")
 ![SomeRover](Images/SomeRover.png "SomeRover")
 ![Wobble](Images/Wobble.png "Wobble")
 ![Quack](Images/Quack.png "Quack")
