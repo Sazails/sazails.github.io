@@ -10,6 +10,9 @@
 * [My Itch.io Projects](https://sazails.itch.io/)<br>
 
 ### Art\Graphic design
+![Compute](Images/flaming.png "Flaming")
+![Compute](Images/vortex.png "Vortex")
+![Compute](Images/volcano.png "Volcano")
 ![Compute](Images/Compute.png "Compute")
 ![SomeRover](Images/SomeRover.png "SomeRover")
 ![Wobble](Images/Wobble.png "Wobble")
