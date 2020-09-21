@@ -10,6 +10,7 @@
 * [My Itch.io Projects](https://sazails.itch.io/)<br>
 
 ### Art\Graphic design
+![FuturTruck](Images/FuturTruckEdit.png "FuturTruck")
 ![Compute](Images/flaming.png "Flaming")
 ![Compute](Images/vortex.png "Vortex")
 ![Compute](Images/volcano.png "Volcano")
@@ -30,4 +31,3 @@
 ![NitroLogo](Images/NitroLogo.png "NitroLogo")
 ![TaradoLogos](Images/TaradoLogos.png "TaradoLogos")
 ![GlobalWarmingPoster](Images/GlobalWarmingPoster.png "GlobalWarmingPoster")
-![FuturTruck](Images/FuturTruckEdit.png "FuturTruck")
