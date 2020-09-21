@@ -30,3 +30,4 @@
 ![NitroLogo](Images/NitroLogo.png "NitroLogo")
 ![TaradoLogos](Images/TaradoLogos.png "TaradoLogos")
 ![GlobalWarmingPoster](Images/GlobalWarmingPoster.png "GlobalWarmingPoster")
+![FuturTruck](Images/FuturTruckEdit.png "FuturTruck")
