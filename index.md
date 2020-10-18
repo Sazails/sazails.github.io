@@ -36,4 +36,5 @@
 
 <figure class="video_container">
   <iframe src="Videos/PHIntro.mp4" frameborder="1" allowfullscreen="true"><iframe>
+  <iframe src="Videos/PHOutro.mp4" frameborder="1" allowfullscreen="true"><iframe>
 </figure>
