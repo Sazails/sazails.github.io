@@ -37,7 +37,4 @@
 <figure class="video_container">
   <iframe src="Videos/PHIntro.mp4" frameborder="1" allowfullscreen="true"></iframe>
   <iframe src="Videos/PHOutro.mp4" frameborder="1" allowfullscreen="true"></iframe>
-  <iframe src="https://www.youtube.com/watch?v=-RW9dbgwNMQ" frameborder="1" allowfullscreen="true"></iframe>
-  <iframe src="https://www.youtube.com/watch?v=gaX048sIc5g" frameborder="1" allowfullscreen="true"></iframe>
-  <iframe src="https://www.youtube.com/watch?v=7ysFL-uEL-M" frameborder="1" allowfullscreen="true"></iframe>
 </figure>
