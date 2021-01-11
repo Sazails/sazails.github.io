@@ -35,6 +35,6 @@
 ### Videos
 
 <figure class="video_container">
-  <iframe width="480" height="320" src="Videos/PHIntro.mp4" frameborder="0" allowfullscreen="true"></iframe>
-  <iframe width="480" height="320" src="Videos/PHOutro.mp4" frameborder="0" allowfullscreen="true"></iframe>
+  <iframe width="460" height="280" src="Videos/PHIntro.mp4" frameborder="0" allowfullscreen="true"></iframe>
+  <iframe width="460" height="280" src="Videos/PHOutro.mp4" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
